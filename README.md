@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on my enterprise projects and my school project "projet-dwwm-2"  
+- 🔭 I’m currently working on my enterprise projects  
 - 🌱 I’m currently learning back-end development with PHP
